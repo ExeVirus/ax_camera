@@ -5,6 +5,8 @@ MIT LICENSE, see license.txt
 Provides a simple camera language, that can contain any number of
 camera commands that are run in order of listing, over time, smoothly.
 
+https://github.com/user-attachments/assets/147805e9-13d7-4eb9-be94-92aa095b3917
+
 ## Usage
 This mod is not intended for server security.
 It can be used by any player, with two chat commands
